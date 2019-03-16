@@ -194,6 +194,17 @@ a.social:hover {
     line-height: 1.6em;
   }
 
+main  .image2 {
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 150px;
+    height: 150px;
+    border-radius: 20%;
+    transition: all .5s;
+  }
+
   footer {
     font-size: 1.3em;
     max-width: 1200px;
